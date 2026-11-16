@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.out
+sentinel
+sentinel_web
+run_tests
+build/
+.vscode/
+audit_log.txt
+apps.txt
+consents.txt
+report_*.txt
